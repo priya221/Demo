@@ -7,6 +7,7 @@ public class Employee {
 	private Double empSal;
 	
 	public Employee() {
+		super();
 		
 	}
 		
