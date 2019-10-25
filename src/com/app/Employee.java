@@ -6,7 +6,7 @@ public class Employee {
 	private String empName;
 	private Double empSal;
 	
-	public employee() {
+	public Employee() {
 		
 	}
 		
